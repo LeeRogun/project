@@ -37,3 +37,22 @@ README에서 Preview 수정 및 확인하기.
 **GitHub**는 *원격 저장소*를 제공하~는 서비스이~기 때문에
 
 온라인 상에서 Git의 ***버전 관리 기능***을 사용할 수 있습니다.
+
+# 코드표시
+한 줄 짜리 소스 코드는 `function add(x,y){return x + y};` 처럼 사용합니다.
+
+```Javascript
+<script>
+  let now = new Date();
+  let display = now.toLoclaleTimeString();
+  document.write(`현재 시간은 ${display} 입니다.
+</script>
+```
+
+코드 입력 끝!
+
+# 링크
+
+<https://www.naver.com/>
+[네이버](https://www.naver.com/)
+[네이버](https://www.naver.com/,"네이버!")
